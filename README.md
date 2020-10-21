@@ -12,7 +12,7 @@ Hackathondan sonraki süreçte
 Uygulama Akışına [buradan](https://storage.googleapis.com/dirty-paws.appspot.com/dirty-paws-flow-minified%20(1).png) ulaşabilirsiniz 
 
 Projenin kısa tanıtımı için hazırlamış olduğumuz videoya aşağıdaki linkten ulaşabilirsiniz.
-[Youtube Link]()
+[Youtube Link](https://www.youtube.com/watch?v=h_4BVdnsppM&feature=youtu.be)
 
 # Bileşenler ve Kullanılan Teknolojiler
 
