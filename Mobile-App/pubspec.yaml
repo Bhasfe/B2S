@@ -1,0 +1,55 @@
+name: DirtyPaws
+description: Dirty Paws is an application which provides....
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+flutter_icons:
+  image_path: 'assets/images/icon.png'
+  android: true
+  ios: true
+
+  
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_login: 
+    path: lib/flutter_login
+  font_awesome_flutter: ^8.5.0
+  intl: ^0.16.1
+  provider: ^4.0.1
+  http: ^0.12.2
+  cupertino_icons: ^1.0.0
+  google_maps_flutter: ^1.0.3
+  maps_launcher: ^1.2.2+1
+  camera:
+  path_provider:
+  image_picker:
+  path:
+  geolocator:
+  geocoding:
+  permission_handler:
+  fluttertoast:
+  firebase_core: ^0.4.0+9
+  firebase_auth: ^0.14.0+5
+  flutter_launcher_icons:
+  android_intent:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/paws.png
+    - assets/images/green.png
+    - assets/images/red.png
+    - assets/images/orange.png
+    - assets/images/grey.png
