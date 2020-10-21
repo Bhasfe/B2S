@@ -7,9 +7,9 @@ Hackathondan sonraki süreçte
 - Ödül mekanizması aktif hale getirilecek.
 - Uygulama tasarımı aşağıdaki şekilde güncellenecek.
 
-![figmaIMG](https://storage.googleapis.com/dirty-paws.appspot.com/DirtyPawsFigma.png)
+![figmaIMG](https://storage.googleapis.com/dirty-paws.appspot.com/DirtyPawsFigmaFuture.png)
 
-Uygulama Akışına [buradan](https://storage.googleapis.com/dirty-paws.appspot.com/dirty-paws-flow-minified%20(1).png) ulaşabilirsiniz 
+Uygulama Akışına [buradan](https://storage.googleapis.com/dirty-paws.appspot.com/flow.png) ulaşabilirsiniz 
 
 Projenin kısa tanıtımı için hazırlamış olduğumuz videoya aşağıdaki linkten ulaşabilirsiniz.
 [Youtube Link](https://www.youtube.com/watch?v=h_4BVdnsppM&feature=youtu.be)
