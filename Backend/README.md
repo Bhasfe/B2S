@@ -1,5 +1,7 @@
 # Backend
 
+**ÖNEMLİ: Hackathon Finalinin ardından Google Cloud Platformdaki uygulama yayından kaldırılmıştır.**
+
 Bu repository **Arduino** ile geliştirilen **akıllı mama kabından** alınan veriyi **makine öğrenmesi modelleri** ile işleyip çıktıları mobil uygulamanın kullanmasını sağlayan API yı barındırmaktadır. Kullanılan makine öğrenmesi modelleri *models* klasörünün altında bulunmaktadır. Modellerin nasıl oluşturulduğu ile ilgili detaylı bilgiyi [AI](https://github.com/Dirty-Paws/AI) repository'sinde bulabilirsiniz.
 
 ## 1. Kullanılan Teknolojiler
